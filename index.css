@@ -1,0 +1,178 @@
+.body {
+    background-color: tan;
+    margin: auto;
+
+}
+.navbar{
+    background-color: tan;
+    display: block;
+    position: fixed;
+    width: 100%;
+    margin:1rem;
+    z-index:100;
+   
+    top:0;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 2.5rem;
+    display: inline;
+    margin-right: 10rem;   
+}
+
+a {
+    color: black;
+    font-family: Arial,
+    Helvetica,
+    sans-serif;
+    font-size: 1.2rem;
+    margin:2rem;
+    text-align:right;
+    text-decoration: none;
+}
+.content{
+    background-color: tan;
+    margin-top: 8rem;
+    margin: auto;
+    text-align: center;
+    width:100%;
+}
+
+.header {
+    background-color: tan;
+    padding-top:8rem;
+    display:block;
+}
+
+.title-head {
+    font-family: Arial,
+    Helvetica,
+    sans-serif;
+    text-align: center; 
+}
+
+.email {
+    
+      line-height: 2rem; 
+    margin: auto;
+    margin-bottom: 1rem;
+    width: 350px;
+}
+
+.form-button {
+    background-color: yellow;
+     font-family: Arial,
+     Helvetica,
+     sans-serif;
+    font-size: 1.3rem;
+    font-weight: 800;
+    line-height: 2rem;
+    margin-bottom: 6rem;
+    width: 300px;
+}
+section{
+   scroll-margin-top: 12rem;
+}
+#features {
+    background-color: tan;
+    font-family: Arial,
+    Helvetica,
+    sans-serif;
+    height: 50rem;
+    margin: auto;
+    text-align: left;
+    width: 900px; 
+}
+
+.feature-head {
+    margin-bottom: 0;
+    margin-left:4rem;
+        
+}
+
+.feature-text {
+    display: inline-flex;
+    margin-top: 0;
+    padding-left: 8rem;
+
+}
+.icon{
+    font-size: 3rem;
+    margin-left:0;
+   
+}
+
+#works {
+    background-color: tan;
+    height: 50rem;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+
+.pricing {
+    width: 1000px;
+    height: 50rem;
+    margin: auto;
+    background-color: tan;
+}
+
+.card1,
+.card2,
+.card3 {
+    border: solid black 3px;
+    width: 270px;
+    height: 30rem;
+    float: left;
+    margin: 27px;
+    text-align: center;
+    font-family: Arial,
+        Helvetica,
+        sans-serif;
+}
+
+.card-head {
+    background-color: beige;
+    padding: .5rem
+}
+
+.price-head {
+    font-size: 1.5rem;
+}
+
+.price {
+    font-size: 2rem;
+}
+
+.pricing-notes {
+    width: 120px;
+    margin: auto;
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.select {
+    margin-top: 1.7rem;
+    line-height: 1.4rem;
+    background-color: yellow;
+}
+
+footer {
+    width: 900px;
+    height: 5rem;
+    background-color: wheat;
+    text-align: right;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 1rem 2rem 1rem;
+    font-family: Arial,
+        Helvetica,
+        sans-serif;
+
+}
+
+h5 {}
+
+.copyright {}
